@@ -1,10 +1,6 @@
-
-
-
-
-
+# 牛客竞赛语法入门班数组栈、队列和stl习题<br>
+#### 练习题J
 https://ac.nowcoder.com/acm/contest/19850/L
-#### 练习题
 ```
 #include<bits/stdc++.h>
 using namespace std;
@@ -65,3 +61,4 @@ int main(){
     return 0;
 }
 ```
+上述代码时间复杂度O(n*n),在数据量很大时会出现超时。
