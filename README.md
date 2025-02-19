@@ -9,7 +9,7 @@
 
 # 算法笔记
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+个人算法刷题记录及笔记
 
 </header>
 
